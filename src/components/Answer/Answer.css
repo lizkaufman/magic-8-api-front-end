@@ -1,0 +1,10 @@
+#answer-container {
+  background-color: #1057cd;
+  padding: 2rem;
+  border-radius: 25px;
+  box-shadow: inset 0px 0px 20px 20px #fff;
+}
+
+#answer-text {
+  font-size: 1.2rem;
+}
