@@ -13,3 +13,7 @@ h2 {
 .regular-text {
   font-size: 1.5em;
 }
+
+footer {
+  margin: 2rem;
+}
