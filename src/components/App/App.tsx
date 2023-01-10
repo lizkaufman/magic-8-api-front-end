@@ -17,10 +17,7 @@ function App() {
     <>
       <main>
         <h1>Magic 8 Ball</h1>
-        <h2>
-          A free API that brings the prognosticating power of the magic 8 ball
-          into the 21st century
-        </h2>
+        <h2>A simple, free API for life's important questions</h2>
         <a href="https://magic-8-api.onrender.com/">
           <h3>https://magic-8-api.onrender.com/</h3>
         </a>
